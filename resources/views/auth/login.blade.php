@@ -69,7 +69,7 @@
     </div>
     
     <div class="text-center mt-5">
-        <h6 class="text-white">Developed By : <a class="text-white" href="https://techtoolindia.com">TechTool India</a></h6>
+        {{-- <h6 class="text-white">Developed By : <a class="text-white" href="https://techtoolindia.com">TechTool India</a></h6> --}}
     </div>
 
 </div>
